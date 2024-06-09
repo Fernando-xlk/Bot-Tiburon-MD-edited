@@ -41,7 +41,7 @@ npm start
 - Escribe los siguientes comandos en Termux:
 ```bash
 > cd 
-> cd gawrgurabotmd-termux
+> cd Bot-Tiburon-MD-edited-termux
 > npm start
 ```
 
@@ -50,8 +50,8 @@ npm start
 - Escribe los siguientes comandos en Termux:
 ```bash
 > cd 
-> cd gawrgurabotmd
-> rm -rf gawrgurabotmdSession
+> cd Bot-Tiburon-MD-edited
+> rm -rf Bot-TiburonSession
 > npm start
 ```
 ### `▢ NOTAS`
