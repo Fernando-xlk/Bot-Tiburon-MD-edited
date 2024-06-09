@@ -1,5 +1,4 @@
-Bot Tiburón🦈
-#Bot TiburónðŸ¦ˆ
+## Bot Tiburón🦈
 
 ## `EDITOR Y PROPIETARIO DEL BOT`
 
