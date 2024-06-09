@@ -18,7 +18,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD
+git clone https://github.com/gawrgurabotmd/Bot-Tiburon-MD-edited.git && cd TheMystic-Bot-MD
 ```
 
 ```bash
@@ -41,17 +41,17 @@ npm start
 - Escribe los siguientes comandos en Termux:
 ```bash
 > cd 
-> cd Mystic-termux
+> cd gawrgurabotmd-termux
 > npm start
 ```
 
 ### `▢ OBTENER OTRO CODIGO QR (TERMUX)`
-- DETEN EL BOT, HAZ CLICK EN EL SIMBOLO CTRL DE TERMUX MAS Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A TheMystic-Bot-MD $
+- DETEN EL BOT, HAZ CLICK EN EL SIMBOLO CTRL DE TERMUX MAS Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A gawrgurabotmd $
 - Escribe los siguientes comandos en Termux:
 ```bash
 > cd 
-> cd TheMystic-Bot-MD
-> rm -rf MysticSession
+> cd gawrgurabotmd
+> rm -rf gawrgurabotmdSession
 > npm start
 ```
 ### `▢ NOTAS`
